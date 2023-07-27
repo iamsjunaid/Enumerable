@@ -13,7 +13,7 @@
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgement ](#-acknowledgement)
+  - [🙏 Acknowledgement ](#acknowledgement)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
